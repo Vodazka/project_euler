@@ -8,6 +8,3 @@ for i in range(2, 21):
         n *= j
 
 print(n)
-
-
-
